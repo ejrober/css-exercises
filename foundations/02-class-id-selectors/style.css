@@ -1,0 +1,22 @@
+/*Syntax example*/
+.class1 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #fba3a3;
+}
+
+/*Class Selector example. html be like <div class="alert-text">Please agree to our terms of service.</div>*/
+.class1.class2 {
+    font-size: 24px;
+}
+
+/*ID Selector example. html like <div id="title">My Awesome 90's Page</div>*/
+#ID1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#ID2 {
+    background-color: #84fb84;
+    font-size: 24px;
+    font-weight: 700;
+}
